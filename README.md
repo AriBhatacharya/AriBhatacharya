@@ -1,10 +1,10 @@
 -  Hello, I’m @ArijitBhatacharya
--  I’m interested in Neuroscience and Music
--  I’m currently learning Neural Dynamics, Computational Neuroscience and Deep Learning
--  I’m looking to collaborate on Computational Cognitive Neuroscience and Music related projects
+-  I’m a PhD student in Cognitive Neuroscience at the Department of Psychology, Ashoka University
+-  I’m interested in Neuroscience, MR Spectroscopy, and Music
+-  I’m looking to collaborate on Computational Cognitive Neuroscience and music-related projects
 -  How to reach me: arijitbhattacharyablog@gmail.com
 -  Pronouns: He/Him
--  Little more: I am a Musician & Blogger
+-  A little more: I am a Musician who learns and plays Indian Classical Flute and Sitar
 
 <!---
 AriBhatacharya/AriBhatacharya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
